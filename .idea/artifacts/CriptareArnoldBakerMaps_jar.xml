@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CriptareArnoldBakerMaps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CriptareArnoldBakerMaps_jar</output-path>
+    <root id="archive" name="CriptareArnoldBakerMaps.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/test/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CriptareArnoldBakerMaps" />
+    </root>
+  </artifact>
+</component>

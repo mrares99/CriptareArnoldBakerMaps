@@ -1,0 +1,353 @@
+Date=2020/11/09 18:03:31
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,15600 secunde
+Timpul total pentru decriptare paralela=0,07600 secunde
+Date=2020/11/09 18:03:43
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,14100 secunde
+Timpul total pentru decriptare paralela=0,07500 secunde
+Date=2020/11/20 12:18:03
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,15700 secunde
+Timpul total pentru decriptare secventiala=0,08500 secunde
+Memorie folosita => Bytes =18859768   Megabytes =17 
+
+Date=2020/11/20 12:18:12
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,18700 secunde
+Timpul total pentru decriptare secventiala=0,12200 secunde
+Memorie folosita => Bytes =18861368   Megabytes =17 
+
+Date=2020/11/20 12:18:17
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,14400 secunde
+Timpul total pentru decriptare secventiala=0,10600 secunde
+Memorie folosita => Bytes =18860720   Megabytes =17 
+
+Date=2020/11/20 12:42:43
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,15600 secunde
+Timpul total pentru decriptare secventiala=0,09100 secunde
+Memorie folosita => Bytes =18863168   Megabytes =17 
+
+Date=2020/11/20 12:44:01
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,15700 secunde
+Timpul total pentru decriptare paralela=0,07500 secunde
+Memorie folosita => Bytes =19912264   Megabytes =18 
+
+Date=2020/11/20 15:56:42
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,43800 secunde
+Timpul total pentru decriptare paralela=0,45400 secunde
+Memorie folosita => Bytes =67664408   Megabytes =64 
+
+Date=2020/11/20 15:58:05
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,42200 secunde
+Timpul total pentru decriptare paralela=0,32500 secunde
+Memorie folosita => Bytes =67671800   Megabytes =64 
+
+Date=2020/11/20 15:58:46
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39100 secunde
+Timpul total pentru decriptare paralela=0,35100 secunde
+Memorie folosita => Bytes =67665928   Megabytes =64 
+
+Date=2020/11/20 15:59:08
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39100 secunde
+Timpul total pentru decriptare paralela=0,33700 secunde
+Memorie folosita => Bytes =67664760   Megabytes =64 
+
+Date=2020/11/20 15:59:14
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,40600 secunde
+Date=2020/11/20 15:59:20
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39100 secunde
+Timpul total pentru decriptare paralela=0,35000 secunde
+Memorie folosita => Bytes =67665728   Megabytes =64 
+
+Date=2020/11/20 15:59:26
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39000 secunde
+Timpul total pentru decriptare paralela=0,34900 secunde
+Memorie folosita => Bytes =67663952   Megabytes =64 
+
+Date=2020/11/20 16:01:05
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,46800 secunde
+Timpul total pentru decriptare secventiala=0,49300 secunde
+Memorie folosita => Bytes =63466232   Megabytes =60 
+
+Date=2020/11/20 16:01:11
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,47700 secunde
+Timpul total pentru decriptare secventiala=0,47500 secunde
+Memorie folosita => Bytes =63465096   Megabytes =60 
+
+Date=2020/11/23 09:47:28
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,46800 secunde
+Timpul total pentru decriptare secventiala=0,52300 secunde
+Memorie folosita => Bytes =63469992   Megabytes =60 
+
+Date=2020/11/23 09:47:50
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,43900 secunde
+Timpul total pentru decriptare secventiala=0,50000 secunde
+Memorie folosita => Bytes =63467144   Megabytes =60 
+
+Date=2020/11/23 09:48:13
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,40400 secunde
+Timpul total pentru decriptare paralela=0,42000 secunde
+Memorie folosita => Bytes =67665080   Megabytes =64 
+
+Date=2020/11/23 09:48:32
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39500 secunde
+Timpul total pentru decriptare paralela=0,42000 secunde
+Memorie folosita => Bytes =67684648   Megabytes =64 
+
+Date=2020/11/23 09:49:11
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,38300 secunde
+Date=2020/11/23 09:49:19
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39900 secunde
+Timpul total pentru decriptare paralela=0,42300 secunde
+Memorie folosita => Bytes =67664664   Megabytes =64 
+
+Date=2020/11/23 09:54:33
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,37900 secunde
+Timpul total pentru decriptare paralela=0,40500 secunde
+Memorie folosita => Bytes =67661880   Megabytes =64 
+
+Date=2020/11/23 09:54:41
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,38600 secunde
+Timpul total pentru decriptare paralela=0,41300 secunde
+Memorie folosita => Bytes =67662240   Megabytes =64 
+
+Date=2020/11/23 13:27:31
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,47500 secunde
+Timpul total pentru decriptare paralela=0,42800 secunde
+Memorie folosita => Bytes =68513376   Megabytes =65 
+
+Date=2020/11/23 13:29:16
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,75800 secunde
+Timpul total pentru decriptare secventiala=0,50000 secunde
+Date=2020/11/23 13:29:40
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,70400 secunde
+Timpul total pentru decriptare secventiala=0,45700 secunde
+Date=2020/11/23 13:30:08
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,56500 secunde
+Timpul total pentru decriptare secventiala=0,54300 secunde
+Date=2020/12/08 17:54:53
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,17200 secunde
+Timpul total pentru decriptare secventiala=0,13300 secunde
+Date=2020/12/08 17:55:17
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,12500 secunde
+Timpul total pentru decriptare secventiala=0,07100 secunde
+Date=2020/12/08 17:55:58
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,43700 secunde
+Timpul total pentru decriptare secventiala=0,39600 secunde
+Date=2020/12/08 17:56:36
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,43700 secunde
+Timpul total pentru decriptare secventiala=0,38000 secunde
+Date=2020/12/08 18:16:41
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,42200 secunde
+Timpul total pentru decriptare secventiala=0,40100 secunde
+Date=2020/12/08 18:17:07
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,14000 secunde
+Timpul total pentru decriptare secventiala=0,09300 secunde
+Date=2020/12/08 18:17:34
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,12500 secunde
+Timpul total pentru decriptare secventiala=0,09000 secunde
+Date=2020/12/08 18:17:58
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,12500 secunde
+Timpul total pentru decriptare secventiala=0,09100 secunde
+Date=2020/12/08 18:18:45
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,12500 secunde
+Timpul total pentru decriptare paralela=0,07300 secunde
+Date=2020/12/08 18:19:08
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,12500 secunde
+Timpul total pentru decriptare paralela=0,07500 secunde
+Date=2020/12/08 18:19:39
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,14000 secunde
+Timpul total pentru decriptare paralela=0,07600 secunde
+Date=2020/12/08 18:20:05
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,37500 secunde
+Timpul total pentru decriptare paralela=0,33500 secunde
+Date=2020/12/08 18:20:22
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,40600 secunde
+Timpul total pentru decriptare paralela=0,33300 secunde
+Date=2020/12/08 18:22:35
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,18800 secunde
+Date=2020/12/08 18:22:52
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,18700 secunde
+Timpul total pentru decriptare paralela=0,15300 secunde
+Date=2020/12/08 18:23:16
+Width imagine=600 Height imagine=600
+Date=2020/12/08 18:24:12
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,20300 secunde
+Timpul total pentru decriptare paralela=0,15600 secunde
+Date=2020/12/08 18:24:33
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,20300 secunde
+Timpul total pentru decriptare paralela=0,13700 secunde
+Date=2020/12/08 19:08:03
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,21900 secunde
+Timpul total pentru decriptare paralela=0,17200 secunde
+Date=2020/12/08 19:08:22
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,18800 secunde
+Timpul total pentru decriptare paralela=0,14100 secunde
+Date=2020/12/08 19:08:52
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare paralela=0,25000 secunde
+Date=2020/12/08 19:09:19
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare paralela=0,28100 secunde
+Timpul total pentru decriptare paralela=0,25000 secunde
+Date=2020/12/08 19:09:37
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare paralela=0,26600 secunde
+Timpul total pentru decriptare paralela=0,23500 secunde
+Date=2020/12/08 19:10:28
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare secventiala=0,20300 secunde
+Timpul total pentru decriptare secventiala=0,17200 secunde
+Date=2020/12/08 19:10:47
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare secventiala=0,21900 secunde
+Timpul total pentru decriptare secventiala=0,18800 secunde
+Date=2020/12/08 19:11:19
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,31200 secunde
+Timpul total pentru decriptare secventiala=0,28100 secunde
+Date=2020/12/08 19:11:38
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,34400 secunde
+Timpul total pentru decriptare secventiala=0,29700 secunde
+Date=2020/12/08 19:12:07
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,31300 secunde
+Timpul total pentru decriptare secventiala=0,28100 secunde
+Date=2020/12/08 19:27:11
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare secventiala=0,14100 secunde
+Timpul total pentru decriptare secventiala=0,07900 secunde
+Date=2020/12/08 19:27:39
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare secventiala=0,21800 secunde
+Timpul total pentru decriptare secventiala=0,18700 secunde
+Date=2020/12/08 19:27:58
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare secventiala=0,21900 secunde
+Timpul total pentru decriptare secventiala=0,17200 secunde
+Date=2020/12/08 19:28:30
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,29700 secunde
+Timpul total pentru decriptare secventiala=0,29600 secunde
+Date=2020/12/08 19:28:48
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,31300 secunde
+Timpul total pentru decriptare secventiala=0,29700 secunde
+Date=2020/12/08 19:29:08
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare secventiala=0,29700 secunde
+Timpul total pentru decriptare secventiala=0,28200 secunde
+Date=2020/12/08 19:30:17
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare secventiala=0,43800 secunde
+Timpul total pentru decriptare secventiala=0,40600 secunde
+Date=2020/12/08 19:31:46
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,10900 secunde
+Timpul total pentru decriptare paralela=0,07800 secunde
+Date=2020/12/08 19:32:10
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,18700 secunde
+Date=2020/12/08 19:32:25
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,18700 secunde
+Timpul total pentru decriptare paralela=0,14100 secunde
+Date=2020/12/08 19:32:50
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare paralela=0,28200 secunde
+Timpul total pentru decriptare paralela=0,23500 secunde
+Date=2020/12/08 19:33:15
+Width imagine=800 Height imagine=800
+Timpul total pentru criptare paralela=0,26600 secunde
+Timpul total pentru decriptare paralela=0,25000 secunde
+Date=2020/12/08 19:33:44
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,37500 secunde
+Timpul total pentru decriptare paralela=0,34300 secunde
+Date=2020/12/09 17:02:20
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,65600 secunde
+Timpul total pentru decriptare paralela=0,51500 secunde
+Date=2020/12/09 17:02:33
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,28200 secunde
+Timpul total pentru decriptare paralela=0,23500 secunde
+Date=2020/12/09 17:02:39
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,18700 secunde
+Date=2020/12/09 17:02:45
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,20300 secunde
+Timpul total pentru decriptare paralela=0,15700 secunde
+Date=2020/12/09 17:02:50
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,23400 secunde
+Timpul total pentru decriptare paralela=0,14000 secunde
+Date=2020/12/09 17:05:26
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,20300 secunde
+Timpul total pentru decriptare paralela=0,15600 secunde
+Date=2020/12/09 17:07:17
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,45300 secunde
+Timpul total pentru decriptare paralela=0,51600 secunde
+Date=2020/12/09 17:08:47
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,43700 secunde
+Timpul total pentru decriptare paralela=0,34300 secunde
+Date=2020/12/09 17:10:04
+Width imagine=400 Height imagine=400
+Timpul total pentru criptare paralela=0,14100 secunde
+Date=2020/12/09 17:15:34
+Width imagine=600 Height imagine=600
+Timpul total pentru criptare paralela=0,24100 secunde
+Timpul total pentru decriptare paralela=0,16600 secunde
+Date=2021/01/25 13:18:20
+Width imagine=1000 Height imagine=1000
+Timpul total pentru criptare paralela=0,39100 secunde
+Timpul total pentru decriptare paralela=0,33500 secunde
